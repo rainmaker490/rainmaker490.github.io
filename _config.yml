@@ -63,14 +63,27 @@ author:
       name: Java
       percentage: 90%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Swift
+      percentage: 80%
     - skill3:
-      name: JavaScript
-      percentage: 80%
+      name: C++
+      percentage: 75%
     - skill4:
-      name: AngularJS
-      percentage: 80%
+      name: C
+      percentage: 75%
     - skill5:
-      name: Java/Java EE
+      name: Bash Scripting
+      percentage: 80%
+    - skill6:
+      name: Parse
+      percentage: 80%
+    - skill7:
+      name: Mapbox
+      percentage: 80%
+    - skill8:
+      name: XCode
       percentage: 90%
+    - skill9:
+      name: Eclipse
+      percentage: 90%
+    
