@@ -1,24 +1,23 @@
 # Site settings
-title: Dong Liang's CV
-description: ddbullfrog's CV
-favicon: /GitPages/assets/img/avatar.jpg
-rss_url: /GitPages/pages/atom.xml
+title: Varun Patel's CV
+description: varunpatel's CV
+favicon: /GitPages/assets/img/avatar.JPG
 
 # Build settings
 markdown: kramdown
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Varun Patel
   title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  address: University Park, Pennsylvania
+  email: varun@verve3.io
+  link: http://rainmaker490.github.io
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /GitPages/assets/img/avatar.jpg
+  github: rainmaker490
+  linkedin: rainmaker490
+  twitter: rainmaker490
+  gavatar: /GitPages/assets/img/avatar.JPG
   workHistory:
     - work1:
       company: Finzsoft Solutions Ltd
@@ -43,26 +42,26 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      organization: The Pennsylvania State University
+      degree: Bachelor of Science
+      major: Computer Science
+      started: 2010
+      duration: (2010 - 2015)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Gujarati
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
+      proficiency: Native
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Hindi
+      proficiency: Proficient
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: Java
+      percentage: 90%
     - skill2:
       name: Bootstrap
       percentage: 90%
