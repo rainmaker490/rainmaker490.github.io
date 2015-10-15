@@ -45,7 +45,50 @@ layout: default
                     {% endfor %}
                 </ul>
             {% endif %}
-            {% if site.author.educationHistory %}
+            {% if site.author.projects %}
+                <h3 class="title with-icon"><span class="fa fa-flask cat-title"></span>Projects / Hackathons</h3>
+                <ul class="timeline">
+                    {% for project in site.author.projects %}
+                        <li class="timeline-inverted">
+                            {% if project.started %}
+                                <div class="timeline-badge info">{{ project.started }}</div>
+                            {% endif %}
+                            <div class="timeline-panel grid-block">
+                                <div class="timeline-heading">
+                                    {% if project.company %}
+                                        <h4 class="timeline-title">{{ project.company }} </h4>
+                                    {% endif %}
+                                    <p>
+                                        <small class="text-muted">
+                                            {% if project.title %}
+                                                {{ project.title }}
+                                            {% endif %}
+                                        </small>
+                                    </p>
+                                    <p>
+                                        <small class="text-muted">
+                                            {% if project.duration %}
+                                                <i class="fa fa-calendar"></i> {{ project.duration }} |
+                                            {% endif %}
+                                            {% if project.location %}
+                                                <i class="fa fa-map-marker"></i>  {{ project.location }}
+                                            {% endif %}
+                                        </small>
+                                    </p>
+                                </div>
+                                <div class="timeline-body">
+                                    {% for details in  project.description %}
+                                        	<p>{{ details.caption }}</p>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </div>
+        <div class="col-md-4">
+        	{% if site.author.educationHistory %}
                 <h3 class="title with-icon"><span class="fa fa-book cat-title"></span>Education History</h3>
                 <ul class="timeline">
                     {% for education in site.author.educationHistory %}
@@ -85,8 +128,6 @@ layout: default
                     {% endfor %}
                 </ul>
             {% endif %}
-        </div>
-        <div class="col-md-4">
             {% if site.author.programmingSkills %}
                 <h3 class="title with-icon"><span class="fa fa-code cat-title"></span> Programming Skills</h3>
                 <div class="grid-block">
