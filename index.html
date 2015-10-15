@@ -36,9 +36,9 @@ layout: default
                                     </p>
                                 </div>
                                 <div class="timeline-body">
-                                    {% if work.description %}
-                                        <p>{{ work.description }}</p>
-                                    {% endif %}
+                                    {% for details in  work.description %}
+                                        	<p>{{ details.caption }}</p>
+                                    {% endfor %}
                                 </div>
                             </div>
                         </li>

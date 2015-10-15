@@ -20,18 +20,28 @@ author:
   gavatar: /GitPages/assets/img/avatar.JPG
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: The Pennsylvania State University
+      location: University Park, PA
+      title: Software Developer
+      started: 2015
+      duration: (Jan 2015 - May 2015)
+      description:
+        - description1: 
+          caption: '• Led a group of 5 peers.'
+        - description2: 
+          caption: '• Worked on Application that allows Distance Education Students to submit programming assignments online and get instant feedback(stylecheck errors, output correctness, compilation errors) (Java, Bash, PHP).'
+        - description3: 
+          caption: '• Developed queue to run workloads requested by client to be processed on the server (server-side systems code)(Bash/PHP).'
+        - description4: 
+          caption: '• Developed and refactored Client-Side code to optimize (Java).'
+        - description5: 
+          caption: '• Refactored structure of server-side code for better design (Bash/PHP).'
     - work2:
       company: Agfa HealthCare
       location: Shanghai, China
       title: Java Developer
       started: 2012
-      duration: (2012 - 2014)
+      duration: (2014 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
       company: Citigroup Services and Technology (China) Limited
@@ -45,9 +55,9 @@ author:
       organization: The Pennsylvania State University
       degree: Bachelor of Science
       major: Computer Science
-      started: 2010
+      started: 2015
       duration: (2010 - 2015)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Minor - Mathematics
   languages:
     - language1:
       name: Gujarati
