@@ -37,12 +37,28 @@ author:
         - description5: 
           caption: '• Refactored structure of server-side code for better design (Bash/PHP).'
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2014 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: IBM
+      location: Las Vegas, NV
+      title: Software Development Engineering Intern
+      started: 2014
+      duration: (July 2014 - Dec 2014)
+      description: 
+        - description1: 
+          caption: '• Developed utility to automate the deployment of TRIRIGA onto application servers. (Java/ Bash Scripts).'
+        - description2: 
+          caption: '• Developed utility to automate publishing of the latest TRIRIGA build (upgrade server) (Java/ Bash Scripts/Python).'
+        - description3: 
+          caption: '• Developed utility to import / export Oracle databases (Bash Scripts).'
+        - description4: 
+          caption: '• Set up continuous delivery environments to be used by QA for quick-fix defect testing. (IBM SCO, CloudStack).'
+        - description5: 
+          caption: '• Built linux servers (RHEL 7).'
+        - description6: 
+          caption: '• Developed Bash Scripts to meet pre-install criteria (on RHEL 7) (modification of kernel-parameters) to install Oracle Database 12c.'
+        - description7: 
+          caption: '• Developed Automation Library utilizing Automation Framework 2.0 for QA testers with minimal development background (Java).'
+        - description8: 
+          caption: '• Worked / Resolved on Automation Framework 2.0 defects (Java).'
     - work3:
       company: Citigroup Services and Technology (China) Limited
       location: Shanghai, China
