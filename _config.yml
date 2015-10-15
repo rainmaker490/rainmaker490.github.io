@@ -60,13 +60,24 @@ author:
         - description8: 
           caption: '• Worked / Resolved on Automation Framework 2.0 defects (Java).'
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  educationHistory:
+      company: IBM
+      location: San Ramon, CA
+      title: Software Development Engineering Intern
+      started: 2014
+      duration: (Jan 2014 - July 2014)      
+      description: 
+        - description1: 
+          caption: '• Worked on Integrated Workplace Management Systems.'
+        - description2: 
+          caption: '• Developed Automation Framework (Automation Framework 2.0) used for QA regression testing (Java/Selenium API).'
+        - description3: 
+          caption: '• Developed regression tests utilizing Automation Framework (Java / Selenium API).'
+        - description4: 
+          caption: '• Developed test scripts for configuring and running tests on IWMS, deployed in development cycle (Java).'
+        - description5: 
+          caption: '• Worked on / Resolved issues reported via test script analyses [Automation Framework defects] (Java).'
+        - description6: 
+          caption: '• Worked with Java, Bash/Batch scripting languages.'
     - education1:
       organization: The Pennsylvania State University
       degree: Bachelor of Science
