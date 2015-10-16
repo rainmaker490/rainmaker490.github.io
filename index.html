@@ -128,8 +128,29 @@ layout: default
                     {% endfor %}
                 </ul>
             {% endif %}
+            {% if site.author.programmingLanguages %}
+                <h3 class="title with-icon"><span class="fa fa-code cat-title"></span> Programming Languages</h3>
+                <div class="grid-block">
+                    <ul class="list-unstyled list-skills">
+                        {% for programmingSkill in site.author.programmingLanguages %}
+                            <li>
+                                {% if programmingSkill.name %}
+                                    <span class="caption-skill">{{ programmingSkill.name }}</span>
+                                {% endif %}
+                                {% if programmingSkill.percentage %}
+                                    <div class="progress">
+                                        <div class="progress-bar" style="width: {{ programmingSkill.percentage }}">
+                                            <span>{{ programmingSkill.percentage }} </span>
+                                        </div>
+                                    </div>
+                                {% endif %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
             {% if site.author.programmingSkills %}
-                <h3 class="title with-icon"><span class="fa fa-code cat-title"></span> Programming Skills</h3>
+                <h3 class="title with-icon"><span class="fa fa-code-fork cat-title"></span>Frameworks || APIs || Open Source || IDEs || Source Control</h3>
                 <div class="grid-block">
                     <ul class="list-unstyled list-skills">
                         {% for programmingSkill in site.author.programmingSkills %}

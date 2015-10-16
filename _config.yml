@@ -104,10 +104,12 @@ author:
       duration: (Feb 2013)
       description:
         - description1:
-          caption: '• 2nd Place in the Intermediate Tier with a group of 3.'
+          caption: '• (http://acm.psu.edu/codepsu)'
         - description2:
-          caption: '• ICPC-style programming competition hosted by the Penn State ACM and Penn State AWC. (http://acm.psu.edu/codepsu)'
+          caption: '• 2nd Place in the Intermediate Tier with a group of 3.'
         - description3:
+          caption: '• ICPC-style programming competition hosted by the Penn State ACM and Penn State AWC.'
+        - description4:
           caption: '• Used C++ and Java to solve problems.'
   educationHistory:
     - education1:
@@ -127,7 +129,7 @@ author:
     - language3:
       name: Hindi
       proficiency: Proficient
-  programmingSkills:
+  programmingLanguages:
     - skill1:
       name: Java
       percentage: 90%
@@ -143,16 +145,21 @@ author:
     - skill5:
       name: Bash Scripting
       percentage: 80%
-    - skill6:
+  programmingSkills:
+    - skill1:
       name: Parse
       percentage: 80%
-    - skill7:
+    - skill2:
       name: Mapbox
       percentage: 80%
-    - skill8:
+    - skill3:
       name: XCode
       percentage: 90%
-    - skill9:
+    - skill4:
       name: Eclipse
       percentage: 90%
+    - skill5:
+      name: Git
+      percentage: 90%
+      
     
