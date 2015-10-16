@@ -161,5 +161,8 @@ author:
     - skill5:
       name: Git
       percentage: 90%
+    - skill6:
+      name: Selenium
+      percentage: 60%
       
     
