@@ -95,7 +95,8 @@ author:
         - description4:
           caption: '• Worked with a group of 3 (2 developers & 1 artist) [team member info available upon request]'
         - description5:
-          caption: '• DEMO: http://lahacks.challengepost.com/submissions/22781-mystic-army)'
+          caption: '• DEMO:'
+          link: 'http://lahacks.challengepost.com/submissions/22781-mystic-army)'
     - project2:
       company: The Pennsylvania State University / Code PSU
       location: University Park, PA
@@ -104,7 +105,7 @@ author:
       duration: (Feb 2013)
       description:
         - description1:
-          caption: '• (http://acm.psu.edu/codepsu)'
+          link: 'http://acm.psu.edu/codepsu'
         - description2:
           caption: '• 2nd Place in the Intermediate Tier with a group of 3.'
         - description3:
