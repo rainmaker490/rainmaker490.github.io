@@ -112,6 +112,34 @@ author:
           caption: '• ICPC-style programming competition hosted by the Penn State ACM and Penn State AWC.'
         - description4:
           caption: '• Used C++ and Java to solve problems.'
+  courseWorkProjects:
+    - course1:
+      company: Application-Space Device Driver
+      started: 2013
+      duration: (December 2013)
+      description:
+        - description1:
+          caption: '• Developed an operating system (linux) interface using C that read and wrote buffered data for a virtual storage device.'
+        - description2:
+          caption: '• Implemented the device driver to use network connection to send and receive commands.'
+    - course2:
+      company: Numerical Analysis And Computation
+      title: Random Walks and Financial Option Pricing
+      started: 2013
+      duration: (September 2013)
+      description:
+        - description1:
+          caption: '• Analyzed the correlation of randomly generated walks with stock prices.'
+        - description2:
+          caption: '• Developed a model using Matlab to price a European call option using a random walk. (Monte-Carlo method)'
+    - course2:
+      company: Numerical Analysis And Computation
+      title: Interpolation & Images
+      started: 2013
+      duration: (September 2013)
+      description:
+        - description1:
+          caption: '• Developed scripts in Matlab to mathematically analyze interpolation of images using Bilinear, Nearest-Neighbor, Linear, Cubic, and Spline Interpolations.'
   educationHistory:
     - education1:
       organization: The Pennsylvania State University

@@ -91,6 +91,52 @@ layout: default
                     {% endfor %}
                 </ul>
             {% endif %}
+            {% if site.author.courseWorkProjects %}
+                <h3 class="title with-icon"><span class="fa fa-bookmark-o cat-title"></span>Course Work Projects</h3>
+                <ul class="timeline">
+                    {% for project in site.author.courseWorkProjects %}
+                        <li class="timeline-inverted">
+                            {% if project.started %}
+                                <div class="timeline-badge info">{{ project.started }}</div>
+                            {% endif %}
+                            <div class="timeline-panel grid-block">
+                                <div class="timeline-heading">
+                                    {% if project.company %}
+                                        <h4 class="timeline-title">{{ project.company }} </h4>
+                                    {% endif %}
+                                    <p>
+                                        <small class="text-muted">
+                                            {% if project.title %}
+                                                {{ project.title }}
+                                            {% endif %}
+                                        </small>
+                                    </p>
+                                    <p>
+                                        <small class="text-muted">
+                                            {% if project.duration %}
+                                                <i class="fa fa-calendar"></i> {{ project.duration }} |
+                                            {% endif %}
+                                            {% if project.location %}
+                                                <i class="fa fa-map-marker"></i>  {{ project.location }}
+                                            {% endif %}
+                                        </small>
+                                    </p>
+                                </div>
+                                <div class="timeline-body">
+                                    {% for details in  project.description %}
+                                    		{% if details.caption %}
+                                        		<p>{{ details.caption }}</p>
+                                        	{% endif %}
+                                        	{% if details.link %}
+                                        		<a href={{ details.link }} >• {{ details.link }} </a>
+                                        	{% endif %}
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
         </div>
         <div class="col-md-4">
         	{% if site.author.educationHistory %}
