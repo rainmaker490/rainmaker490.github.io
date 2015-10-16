@@ -96,6 +96,19 @@ author:
           caption: '• Worked with a group of 3 (2 developers & 1 artist) [team member info available upon request]'
         - description5:
           caption: '• DEMO: http://lahacks.challengepost.com/submissions/22781-mystic-army)'
+    - project2:
+      company: The Pennsylvania State University / Code PSU
+      location: University Park, PA
+      title: Hacker / Software Developer
+      started: 2013
+      duration: (Feb 2013)
+      description:
+        - description1:
+          caption: '• 2nd Place in the Intermediate Tier with a group of 3.'
+        - description2:
+          caption: '• ICPC-style programming competition hosted by the Penn State ACM and Penn State AWC. (http://acm.psu.edu/codepsu)'
+        - description3:
+          caption: '• Used C++ and Java to solve problems.'
   educationHistory:
     - education1:
       organization: The Pennsylvania State University
