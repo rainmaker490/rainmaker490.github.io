@@ -120,6 +120,14 @@ author:
       started: 2015
       duration: (2010 - 2015)
       description: Minor - Mathematics
+  organizations:
+    - organization1:
+      organization: ACM
+      started: 2013
+      duration: (2013 - 2015)
+      description:
+        - description1:
+          caption: '• Recognized by A.C.M. at The Pennsylvania State University as the most Active member for the Spring 2013 Semester.'
   languages:
     - language1:
       name: Gujarati
