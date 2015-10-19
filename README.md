@@ -4,7 +4,7 @@ iCard-Resume is a theme built on top of bootstrap and other freely available lib
 
 ## Demo
 -------
-You can see the live demo of [Varun-Resume](http://rainmaker490.github.io)
+You can see the live demo of [rainmaker490.github.io](http://rainmaker490.github.io)
 
 This is the web page on desktop browser.
 
@@ -17,6 +17,9 @@ This is the web page on desktop browser.
     - `git clone https://github.com/YOUR-USER/iCard-Resume`
 - Clone it (Modified Template): 
     - `git clone git@github.com:rainmaker490/rainmaker490.github.io.git`
+- cd into the Cloned directory:
+    - `cd ~/iCard-Resume`
+    - `cd ~/rainmaker490.github.io.git`
 - Run the jekyll server: 
     - `jekyll serve`
 
