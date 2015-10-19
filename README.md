@@ -14,7 +14,8 @@ This is the web page on desktop browser.
 -------
 
 - Clone it (Original Template): `git clone https://github.com/YOUR-USER/iCard-Resume`
-- Clone it (Modified Template): `git clone git@github.com:rainmaker490/rainmaker490.github.io.git`
+- Clone it (Modified Template): 
+    `git clone git@github.com:rainmaker490/rainmaker490.github.io.git`
 - Run the jekyll server: `jekyll serve`
 
 You should have a server up and running locally at <http://localhost:4000>.
