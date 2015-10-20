@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rainmaker490
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://varundpatel.com
+  * I am rainmaker490 (https://keybase.io/rainmaker490) on keybase.
+  * I have a public key with fingerprint 7222 1280 F6A1 36FB 888F  601E 0AE0 218F 945F 1700
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010129a95a5fba27e9dba6f87f7e75279eb3779e0ef90690dc89dc2fcffa5b682a0c0a",
+            "fingerprint": "72221280f6a136fb888f601e0ae0218f945f1700",
+            "host": "keybase.io",
+            "key_id": "0ae0218f945f1700",
+            "kid": "010129a95a5fba27e9dba6f87f7e75279eb3779e0ef90690dc89dc2fcffa5b682a0c0a",
+            "uid": "0e37447aa58320f4fca2f1fac98bbb19",
+            "username": "rainmaker490"
+        },
+        "service": {
+            "hostname": "varundpatel.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1445352643,
+    "expire_in": 157680000,
+    "prev": "c6437f374927b4ae66a6da878f79bd4e64d2a45e6662c22a95dec0aa0a4ac4a5",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMIvAnicrVJdSBVBGL03tUyzNCh6MKQNjMBqdu7u7O71IcIKlAgSMUvrMrs7o5ve
+3evevddrYkUgJCo9GEUPWkEQGRRJoAlGmoj2Q5QRhf0omWY++ENFUlmzZU+9Ng8z
+zPedc+Z8h+lLifMkeT8WZBYd8gyv8T7oaYl4CjML7tVwqqVXc/4arpz8PkiFTsJO
+oNzQOT8HeMBDBSsiFqmKoUQUXcWIyhKViCRCSSGqT2I7IFQBSAG6Jiu6BqlGKRZV
+JEMMNIC5LI4aZimxQ7ZhOkxWghDyUAYUYd6HqCrLMkWAJwATAHmZKoJIeQkARiyz
+wi6DmVNxmGw1LFZjl8Afe//i/7PvyB854pMEQcJYlH0QUIFqGFKeYk2RVVXlFRcY
+JraJg4ShbWyYQVxObEEBXG0WxzpRQyNuuO40i6gotiOmHsIOqdiqWUEmEbItx9Ks
+CtYsc5yQ3+U61SEXXEXUwKJMQDVMnaXJCFFihw3L5Pw8Q2qO4erygiD6RIgEXxZH
+YiHDJgHDRYgSkgFb7jMkyiQ1BpEom0uBkipgghBGOpYlmUqKqgsECTrEgsjqCGoQ
+six1wjLBAAtYE7DIuYNVmhbnR8wmLmWSYaPUxE7EJlxt792SeI83ybM0YYn7yzxJ
+y1P//r35a8t+lp/Y9/bWqpXx3XNtK642j+2bOpkZm0kg9fDIzPdgy0joYu7lqQ6t
+v7fW3zrXPSrsN2M5Q1mJm5L3tIXHc7NPdWxv/zA72jjyabq0tT2jszZv8820gRc1
+GXVdMxvq3nA7Rr2PJ5xL81za0eF7a5MPpOx+2eNLpVdaJ952Nq57d+VryvNtiYdT
+Xs01GGPmsfShmeCFnPyNCz9eJ98eG6yY3VL47MznJ2ebuo8P5JVVJecP7sqdRG3o
+WtOXh+cO31gYnY5DBT7lzvqi/qfd/Xz0/fUi6VHh0mZTmdz7LdZ5/uDIRGPP6eC7
+4qaOTbH0nL78ktXeSFdDcWV9cfPO8UP3G656sn8B5ndK3g==
+=tunI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rainmaker490
+
+==================================================================
