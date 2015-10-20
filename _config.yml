@@ -26,6 +26,9 @@ author:
       started: 2015
       duration: (Jan 2015 - May 2015)
       description:
+        - description1:
+          link: 'file:///assets/demo/CSE_PASS.pdf'
+          linkDescription: '***Click Me to view Features Implemented & architecture/scope of project***' 
         - description1: 
           caption: '• Led a group of 5 peers.'
         - description2: 

@@ -36,8 +36,13 @@ layout: default
                                     </p>
                                 </div>
                                 <div class="timeline-body">
-                                    {% for details in  work.description %}
-                                        	<p>{{ details.caption }}</p>
+                                    {% for details in  work.description %}                        
+                                    		{% if details.caption %}
+                                        		<p>{{ details.caption }}</p>
+                                        	{% endif %}
+                                        	{% if details.link %}
+                                        		<a href={{ details.link }} >• {{ details.linkDescription }} </a>
+                                        	{% endif %}
                                     {% endfor %}
                                 </div>
                             </div>
