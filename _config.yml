@@ -27,7 +27,7 @@ author:
       duration: (Jan 2015 - May 2015)
       description:
         - description1:
-          link: 'varundpatel.com/assets/demo/CSE_PASS.pdf'
+          link: '/assets/demo/CSE_PASS.pdf'
           linkDescription: '***Click Me to view Features Implemented & architecture/scope of project***' 
         - description1: 
           caption: '• Led a group of 5 peers.'
