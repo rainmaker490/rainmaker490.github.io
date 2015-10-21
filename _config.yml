@@ -29,15 +29,15 @@ author:
         - description1:
           link: '/assets/demo/CSE_PASS.pdf'
           linkDescription: '***Click Me to view Features Implemented & architecture/scope of project***' 
-        - description1: 
-          caption: '• Led a group of 5 peers.'
         - description2: 
-          caption: '• Worked on Application that allows Distance Education Students to submit programming assignments online and get instant feedback(stylecheck errors, output correctness, compilation errors) (Java, Bash, PHP).'
+          caption: '• Led a group of 5 peers.'
         - description3: 
-          caption: '• Developed queue to run workloads requested by client to be processed on the server (server-side systems code)(Bash/PHP).'
+          caption: '• Worked on Application that allows Distance Education Students to submit programming assignments online and get instant feedback(stylecheck errors, output correctness, compilation errors) (Java, Bash, PHP).'
         - description4: 
-          caption: '• Developed and refactored Client-Side code to optimize (Java).'
+          caption: '• Developed queue to run workloads requested by client to be processed on the server (server-side systems code)(Bash/PHP).'
         - description5: 
+          caption: '• Developed and refactored Client-Side code to optimize (Java).'
+        - description6: 
           caption: '• Refactored structure of server-side code for better design (Bash/PHP).'
     - work2:
       company: IBM
