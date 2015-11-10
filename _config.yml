@@ -83,6 +83,24 @@ author:
           caption: '• Worked with Java, Bash/Batch scripting languages.'
   projects:
     - project1:
+      company: PSU Hacks
+      location: University Park, PA
+      title: Hacker / Software Developer
+      started: 2015
+      duration: (November 2015)
+      description:
+        - description1:
+          caption: '• Developed a turn-based game for iOS in 36 hours'
+        - description2:
+          caption: '• Utilized Sprite Kit to develop game (Objective C Framework)'
+        - description3:
+          caption: '• Developed back end & AI for Mystic Army'
+        - description4:
+          caption: '• Worked with a group of 3 (2 developers & 1 artist) [team member info available upon request]'
+        - description5:
+          caption: '• DEMO:'
+          link: 'http://lahacks.challengepost.com/submissions/22781-mystic-army)'
+    - project2:
       company: UCLA / LA Hacks
       location: Los Angeles, CA
       title: Hacker / Software Developer
@@ -100,7 +118,7 @@ author:
         - description5:
           caption: '• DEMO:'
           link: 'http://lahacks.challengepost.com/submissions/22781-mystic-army)'
-    - project2:
+    - project3:
       company: The Pennsylvania State University / Code PSU
       location: University Park, PA
       title: Hacker / Software Developer

@@ -19,7 +19,7 @@ This is the web page on desktop browser.
     - `git clone git@github.com:rainmaker490/rainmaker490.github.io.git`
 - cd into the Cloned directory:
     - `cd ~/iCard-Resume`
-    - `cd ~/rainmaker490.github.io.git`
+    - `cd ~/rainmaker490.github.io`
 - Run the jekyll server: 
     - `jekyll serve`
 
