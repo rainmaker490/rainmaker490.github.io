@@ -30,15 +30,15 @@ author:
           link: '/assets/demo/CSE_PASS.pdf'
           linkDescription: '***Click Me to view Features Implemented & architecture/scope of project***' 
         - description2: 
-          caption: '• Led a group of 5 peers.'
+          caption: '•  Led a group of 5 peers.'
         - description3: 
-          caption: '• Worked on Application that allows Distance Education Students to submit programming assignments online and get instant feedback(stylecheck errors, output correctness, compilation errors) (Java, Bash, PHP).'
+          caption: '•  Worked on Application that allows Distance Education Students to submit programming assignments online and get instant feedback(stylecheck errors, output correctness, compilation errors) (Java, Bash, PHP).'
         - description4: 
-          caption: '• Developed queue to run workloads requested by client to be processed on the server (server-side systems code)(Bash/PHP).'
+          caption: '•  Developed queue to run workloads requested by client to be processed on the server (server-side systems code)(Bash/PHP).'
         - description5: 
-          caption: '• Developed and refactored Client-Side code to optimize (Java).'
+          caption: '•  Developed and refactored Client-Side code to optimize (Java).'
         - description6: 
-          caption: '• Refactored structure of server-side code for better design (Bash/PHP).'
+          caption: '•  Refactored structure of server-side code for better design (Bash/PHP).'
     - work2:
       company: IBM
       location: Las Vegas, NV
@@ -47,21 +47,21 @@ author:
       duration: (July 2014 - Dec 2014)
       description: 
         - description1: 
-          caption: '• Developed utility to automate the deployment of TRIRIGA onto application servers. (Java/ Bash Scripts).'
+          caption: '•  Developed utility to automate the deployment of TRIRIGA onto application servers. (Java/ Bash Scripts).'
         - description2: 
-          caption: '• Developed utility to automate publishing of the latest TRIRIGA build (upgrade server) (Java/ Bash Scripts/Python).'
+          caption: '•  Developed utility to automate publishing of the latest TRIRIGA build (upgrade server) (Java/ Bash Scripts/Python).'
         - description3: 
-          caption: '• Developed utility to import / export Oracle databases (Bash Scripts).'
+          caption: '•  Developed utility to import / export Oracle databases (Bash Scripts).'
         - description4: 
-          caption: '• Set up continuous delivery environments to be used by QA for quick-fix defect testing. (IBM SCO, CloudStack).'
+          caption: '•  Set up continuous delivery environments to be used by QA for quick-fix defect testing. (IBM SCO, CloudStack).'
         - description5: 
-          caption: '• Built linux servers (RHEL 7).'
+          caption: '•  Built linux servers (RHEL 7).'
         - description6: 
-          caption: '• Developed Bash Scripts to meet pre-install criteria (on RHEL 7) (modification of kernel-parameters) to install Oracle Database 12c.'
+          caption: '•  Developed Bash Scripts to meet pre-install criteria (on RHEL 7) (modification of kernel-parameters) to install Oracle Database 12c.'
         - description7: 
-          caption: '• Developed Automation Library utilizing Automation Framework 2.0 for QA testers with minimal development background (Java).'
+          caption: '•  Developed Automation Library utilizing Automation Framework 2.0 for QA testers with minimal development background (Java).'
         - description8: 
-          caption: '• Worked / Resolved on Automation Framework 2.0 defects (Java).'
+          caption: '•  Worked / Resolved on Automation Framework 2.0 defects (Java).'
     - work3:
       company: IBM
       location: San Ramon, CA
@@ -70,36 +70,48 @@ author:
       duration: (Jan 2014 - July 2014)      
       description: 
         - description1: 
-          caption: '• Worked on Integrated Workplace Management Systems.'
+          caption: '•  Worked on Integrated Workplace Management Systems.'
         - description2: 
-          caption: '• Developed Automation Framework (Automation Framework 2.0) used for QA regression testing (Java/Selenium API).'
+          caption: '•  Developed Automation Framework (Automation Framework 2.0) used for QA regression testing (Java/Selenium API).'
         - description3: 
-          caption: '• Developed regression tests utilizing Automation Framework (Java / Selenium API).'
+          caption: '•  Developed regression tests utilizing Automation Framework (Java / Selenium API).'
         - description4: 
-          caption: '• Developed test scripts for configuring and running tests on IWMS, deployed in development cycle (Java).'
+          caption: '•  Developed test scripts for configuring and running tests on IWMS, deployed in development cycle (Java).'
         - description5: 
-          caption: '• Worked on / Resolved issues reported via test script analyses [Automation Framework defects] (Java).'
+          caption: '•  Worked on / Resolved issues reported via test script analyses [Automation Framework defects] (Java).'
         - description6: 
-          caption: '• Worked with Java, Bash/Batch scripting languages.'
+          caption: '•  Worked with Java, Bash/Batch scripting languages.'
   projects:
     - project1:
-      company: PSU Hacks
+      company: PSU Hacks - 2nd Place Overall at Hackathon
       location: University Park, PA
       title: Hacker / Software Developer
       started: 2015
       duration: (November 2015)
       description:
-        - description1:
-          caption: '• Developed a turn-based game for iOS in 36 hours'
-        - description2:
-          caption: '• Utilized Sprite Kit to develop game (Objective C Framework)'
+        - description1: 
+          caption:
+            - caption: '•  Name of App: Pulse'
+            - caption: '•  Pulse is an all in one mobile solution to competitive classroom participation. Pulse allows a teacher to create a a virtual “class”, add his/her students, and create sets of questions and answers for his/her students to answer in real time. ' 
         - description3:
-          caption: '• Developed back end & AI for Mystic Army'
+          caption:
+            - caption: '•  Developed a tvOS App (for Apple TV), and an iPad/iPhone/iPod App'
         - description4:
-          caption: '• Worked with a group of 3 (2 developers & 1 artist) [team member info available upon request]'
+          caption:
+            - caption: '•  Utilized Swift and Parse'
         - description5:
-          caption: '• DEMO:'
-          link: 'http://lahacks.challengepost.com/submissions/22781-mystic-army)'
+          caption:
+            - caption: '•  Developed parts of back end & iPad/iPhone/iPod app'
+        - description6:
+          link:
+            - description: '•  Worked with a group of 3 (3 developers):'
+            - link: 'https://github.com/Mmarzex'
+            - link: 'https://github.com/mdr5325'
+        - description7:
+          caption:
+            - caption: '•  DEMO :'
+          link:
+            - link: 'http://pulse.github.io'
     - project2:
       company: UCLA / LA Hacks
       location: Los Angeles, CA
@@ -108,31 +120,42 @@ author:
       duration: (April 2014)
       description:
         - description1:
-          caption: '• Developed a turn-based game for iOS in 36 hours'
+          caption:
+            - caption: '•  Developed a turn-based game for iOS in 36 hours'
         - description2:
-          caption: '• Utilized Sprite Kit to develop game (Objective C Framework)'
+          caption:
+            - caption: '•  Utilized Sprite Kit to develop game (Objective C Framework)'
         - description3:
-          caption: '• Developed back end & AI for Mystic Army'
+          caption:
+            - caption: '•  Developed back end & AI for Mystic Army'
         - description4:
-          caption: '• Worked with a group of 3 (2 developers & 1 artist) [team member info available upon request]'
+          caption:
+            - caption: '•  Worked with a group of 3 (2 developers & 1 artist) [team member info available upon request]'
         - description5:
-          caption: '• DEMO:'
-          link: 'http://lahacks.challengepost.com/submissions/22781-mystic-army)'
+          link:
+            - description: '•  DEMO : '
+            - link: 'http://lahacks.challengepost.com/submissions/22781-mystic-army)'
+            
     - project3:
-      company: The Pennsylvania State University / Code PSU
+      company: The Pennsylvania State University / Code PSU - 2nd Place in the Intermediate Tier
       location: University Park, PA
       title: Hacker / Software Developer
       started: 2013
       duration: (Feb 2013)
       description:
         - description1:
-          link: 'http://acm.psu.edu/codepsu'
+          link:
+            - description: '•  Coordinated by ACM at PSU'
+            - link: 'http://acm.psu.edu/codepsu'
         - description2:
-          caption: '• 2nd Place in the Intermediate Tier with a group of 3.'
+          caption:
+            - caption: '•  Worked with a group of 3 peers'
         - description3:
-          caption: '• ICPC-style programming competition hosted by the Penn State ACM and Penn State AWC.'
+          caption:
+            - caption: '•  ICPC-style programming competition hosted by the Penn State ACM and Penn State AWC.'
         - description4:
-          caption: '• Used C++ and Java to solve problems.'
+          caption:
+            - caption: '•  Used C++ and Java to solve problems.'
   courseWorkProjects:
     - course1:
       company: Application-Space Device Driver
@@ -141,9 +164,9 @@ author:
       duration: (December 2013)
       description:
         - description1:
-          caption: '• Developed an operating system (linux) interface using C that read and wrote buffered data for a virtual storage device.'
+          caption: '•  Developed an operating system (linux) interface using C that read and wrote buffered data for a virtual storage device.'
         - description2:
-          caption: '• Implemented the device driver to use network connection to send and receive commands.'
+          caption: '•  Implemented the device driver to use network connection to send and receive commands.'
     - course2:
       company: Numerical Analysis And Computation
       location: University Park, PA
@@ -152,9 +175,9 @@ author:
       duration: (September 2013)
       description:
         - description1:
-          caption: '• Analyzed the correlation of randomly generated walks with stock prices.'
+          caption: '•  Analyzed the correlation of randomly generated walks with stock prices.'
         - description2:
-          caption: '• Developed a model using Matlab to price a European call option using a random walk. (Monte-Carlo method)'
+          caption: '•  Developed a model using Matlab to price a European call option using a random walk. (Monte-Carlo method)'
     - course2:
       company: Numerical Analysis And Computation
       location: University Park, PA
@@ -163,7 +186,7 @@ author:
       duration: (September 2013)
       description:
         - description1:
-          caption: '• Developed scripts in Matlab to mathematically analyze interpolation of images using Bilinear, Nearest-Neighbor, Linear, Cubic, and Spline Interpolations.'
+          caption: '•  Developed scripts in Matlab to mathematically analyze interpolation of images using Bilinear, Nearest-Neighbor, Linear, Cubic, and Spline Interpolations.'
   educationHistory:
     - education1:
       organization: The Pennsylvania State University
@@ -179,7 +202,7 @@ author:
       duration: (2013 - 2015)
       description:
         - description1:
-          caption: '• Recognized by A.C.M. at The Pennsylvania State University as the most Active member for the Spring 2013 Semester.'
+          caption: '•  Recognized by A.C.M. at The Pennsylvania State University as the most Active member for the Spring 2013 Semester.'
   languages:
     - language1:
       name: Gujarati
