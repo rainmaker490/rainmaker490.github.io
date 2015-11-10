@@ -83,7 +83,7 @@ author:
           caption: '•  Worked with Java, Bash/Batch scripting languages.'
   projects:
     - project1:
-      company: PSU Hacks - 2nd Place Overall at Hackathon
+      company: HackPSU - 2nd Place Overall at Hackathon
       location: University Park, PA
       title: Hacker / Software Developer
       started: 2015
@@ -92,7 +92,7 @@ author:
         - description1: 
           caption:
             - caption: '•  Name of App: Pulse'
-            - caption: '•  Pulse is an all in one mobile solution to competitive classroom participation. Pulse allows a teacher to create a a virtual “class”, add his/her students, and create sets of questions and answers for his/her students to answer in real time. ' 
+            - caption: '•  Pulse is an all in one mobile solution to competitive classroom participation. Pulse allows a teacher to create a virtual “class”, add his/her students, and create sets of questions and answers for his/her students to answer in real time. ' 
         - description3:
           caption:
             - caption: '•  Developed a tvOS App (for Apple TV), and an iPad/iPhone/iPod App'
