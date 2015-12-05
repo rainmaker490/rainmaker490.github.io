@@ -111,7 +111,7 @@ author:
           caption:
             - caption: '•  DEMO :'
           link:
-            - link: 'http://rainmaker490.github.io/pulse/'
+            - link: 'http://pulselab.io'
     - project2:
       company: UCLA / LA Hacks
       location: Los Angeles, CA
@@ -219,7 +219,7 @@ author:
       percentage: 90%
     - skill2:
       name: Swift
-      percentage: 80%
+      percentage: 90%
     - skill3:
       name: C++
       percentage: 75%
